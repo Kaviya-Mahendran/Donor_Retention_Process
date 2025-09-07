@@ -1,0 +1,30 @@
+Donor Analysis Report
+========================
+
+Total raised: £436,736.22
+Average gift: £51.10
+Number of 'at-risk' donors: 2103
+
+Donations by Year:
+DonationYear
+2020     19445.48
+2021     58437.13
+2022     88041.63
+2023    136710.83
+2024    134101.15
+
+Donations by Channel:
+Channel
+Campaign    111266.73
+Event       106848.62
+Online      108735.35
+Shop        109885.52
+
+Retention Rate Matrix (%):
+DonationYear   2020        2021        2022        2023        2024
+CohortYear                                                         
+2020          100.0  166.315789  162.807018  181.754386   98.596491
+2021            NaN  100.000000  166.789668  176.014760  165.682657
+2022            NaN         NaN  100.000000  185.658915  197.674419
+2023            NaN         NaN         NaN  100.000000  185.090909
+2024            NaN         NaN         NaN         NaN  100.000000
